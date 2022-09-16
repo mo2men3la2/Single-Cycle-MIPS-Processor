@@ -14,4 +14,12 @@ The processor is composed of a datapath and a controller. The controller is inte
 ## Instruction Memory:
 ![image](https://user-images.githubusercontent.com/54054905/190666820-3df31ec4-25a5-4deb-b2cf-567f17abb5b2.png)
 ## Data Memory:
+https://1drv.ms/b/s!AlfEPsT7tLckohvNlWMMk3dQaWp5?e=rVDDXw
+## Simulation Results:
+### Calculating the GCD of Numbers (120 , 180)
+![image](https://user-images.githubusercontent.com/54054905/190688928-1175edba-bf52-450b-9d83-2816639ce41f.png)
+### Calculating the Factorial of 7
+![image](https://user-images.githubusercontent.com/54054905/190690013-c0a39d60-c9da-4720-a544-efec394d4b9d.png)
+### Generating Fibonacci Sequence
+![image](https://user-images.githubusercontent.com/54054905/190690538-fe35b8a5-4eec-4eb9-b506-da807321ebd6.png)
 
